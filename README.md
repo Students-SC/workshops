@@ -1,2 +1,8 @@
-# workshops
-resume and portfolio workshops supplemental materials
+# Students@SC Resume and Portfolio Workshops
+
+This page contains supplemental materials for the Resume and Portfolio Workshops.
+
+## Resume Workshop
+
+## Portfolio Workshop
+
