@@ -15,7 +15,8 @@ title: ''
 	speedup, accuracy, scale
 
 ### 2. Project Selection & Depth
-- ✅ Showcase 2-4 high-quality, relevant projects
+- ✅ Showcase 1-6 high-quality, relevant projects
+    - depending on your experience and level of detail you want to include
 - ✅ Include a mix of industry-relevant and research-level
 - ✅ Prioritize originality, impact, and clarity over quantity
 
