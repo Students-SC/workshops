@@ -1,3 +1,7 @@
+---
+title: ''
+---
+
 # Portfolio Cheat Sheet
 
 ## Checklist
@@ -65,8 +69,8 @@
 5. Commit the changes and push to GitHub
 6. View the website!
 
-> [!TIP]
-> This website is hosted on GitHub Pages. You can look at the source code at https://www.github.com/students-sc/workshops
+> **Tip:**
+> This website is hosted on GitHub Pages. You can look at the source code at [https://www.github.com/students-sc/workshops](https://www.github.com/students-sc/workshops)
 
 ### GitHub Pages Settings
 <picture>
