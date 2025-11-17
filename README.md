@@ -18,7 +18,7 @@ Aligned with this year’s ‘HPC Ignites’ theme, this resume course empowers 
 
 ### Resources
 
-- [Resume Slides](https://docs.google.com/presentation/d/1XEpIwIkwDOsuaSJCX5xEeDhlPOFY3iOn/edit?usp=sharing&ouid=108536693577720943965&rtpof=true&sd=true)
+- [Resume Slides](./static/resume-slides.pdf)
 - [Resume Cheat Sheet](./static/resume-cheatsheet.pdf)
 
 
@@ -32,5 +32,5 @@ Ignite your professional potential with our HPC Portfolio Course! Designed to sh
 
 ### Resources
 
-- [Portfolio Slides](https://docs.google.com/presentation/d/1KIlX8M6x3IpmAQbbuS8W1fZuatYfNfIN/edit?usp=sharing&ouid=108536693577720943965&rtpof=true&sd=true)
+- [Portfolio Slides](./static/portfolio-slides.pdf)
 - [Portfolio Cheat Sheet](./portfolio-cheatsheet.html)
